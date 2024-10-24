@@ -23,13 +23,13 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/TheVinaySagar/contact-form-01.git
+cd contact-form-01
 ```
 
 2. Install dependencies:
 ```bash
-npm install
+npm install 
 ```
 
 3. Create a `.env` file in the root directory and add your Mailjet credentials:
